@@ -1,0 +1,51 @@
+export const chartData = [
+  {
+    kwh: 1000,
+    name: "Ago/21",
+    "Geração de Energia": 700,
+    "Consumo CEMIG": 180,
+    "Consumo Usina": 120,
+  },
+  {
+    kwh: 1000,
+    name: "Set/21",
+    "Consumo Usina": 320,
+    "Geração de Energia": 500,
+    "Consumo CEMIG": 480,
+  },
+  {
+    kwh: 1000,
+    name: "Out/21",
+    "Consumo Usina": 320,
+    "Geração de Energia": 550,
+    "Consumo CEMIG": 280,
+  },
+  {
+    kwh: 1000,
+    name: "Nov/21",
+    "Consumo Usina": 280,
+    "Geração de Energia": 600,
+    "Consumo CEMIG": 420,
+  },
+  {
+    kwh: 1000,
+    name: "Dez/21",
+    "Geração de Energia": 740,
+    "Consumo CEMIG": 240,
+    "Consumo Usina": 160,
+  },
+  {
+    kwh: 1000,
+    name: "Jan/21",
+    "Geração de Energia": 400,
+    "Consumo CEMIG": 180,
+    "Consumo Usina": 120,
+  },
+  {
+    kwh: 1000,
+    name: "Fev/21",
+    "Geração de Energia": 650,
+    "Consumo CEMIG": 300,
+    "Consumo Usina": 200,
+  },
+];

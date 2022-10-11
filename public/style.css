@@ -1,0 +1,12 @@
+body {
+    margin: 0 auto;
+}
+
+p, li, h1, h2, h3, h4, h5, a {
+    font-family: 'Ubuntu';
+    margin: 0;
+}
+
+a {
+    text-decoration: none;
+}
