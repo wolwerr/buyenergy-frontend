@@ -1,5 +1,3 @@
-import React from 'react'
-import { HeaderMainCnt } from '../../assets/styles/Shared'
 import Header from '../../layouts/header/Header'
 import Main from '../../layouts/main/Main'
 import NavMenu from '../../layouts/navMenu/NavMenu'
@@ -9,7 +7,6 @@ export default function EconomiaPage() {
   return (
     <>
       <NavMenu page="economia" />
-      <HeaderMainCnt>
         <Main>
           <MainContainer>
             <Title>
@@ -61,7 +58,6 @@ export default function EconomiaPage() {
           </MainContainer>
         </Main>
         <Header />
-      </HeaderMainCnt>
     </>
   )
 }

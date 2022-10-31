@@ -6,9 +6,8 @@ export const NavCnt = styled.nav`
     position: fixed;
     top: 0;
     left: 0;
-    height: 100vh;
-    width: 100%;
-    max-width: 300px;
+    height: 100%;
+    width: 300px;
     display: flex;
     flex-direction: column;
     justify-content: space-between;

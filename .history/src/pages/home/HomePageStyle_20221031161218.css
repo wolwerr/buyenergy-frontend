@@ -1,0 +1,9 @@
+.PopUp{
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-end;
+}
+
+.Homne{
+    height: 70%;
+}

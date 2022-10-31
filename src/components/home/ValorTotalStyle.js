@@ -8,7 +8,7 @@ export const BotaoAmarelo = styled.div`
   text-align: center;
   background-color: #f5b203;
   border-radius: 20px;
-  width: 300px;
+  width: 355px;
   height: 160px;
   font-size: 20px;
   color: white;

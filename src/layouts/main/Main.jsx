@@ -1,5 +1,5 @@
 import { useEffect, useState } from 'react'
-import { MainCnt, MainContent } from './MainStyle'
+import { MainCnt } from './MainStyle'
 
 export default function Main({ children }) {
   const [windowWidth, setWindowWidth] = useState(window.innerWidth)

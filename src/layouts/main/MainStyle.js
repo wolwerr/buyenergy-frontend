@@ -6,7 +6,8 @@ export const MainCnt = styled.main`
     background-repeat: no-repeat;
     background-position: right top;
     background-size: cover; */
-    position: fixed;
+    // position: fixed;
+    position: absolute;
     top: 78px;
     left: 300px;
     width: ${props => props.windowWidth - 300}px;

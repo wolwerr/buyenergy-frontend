@@ -1,3 +1,4 @@
+
 import React from "react";
 import { HeaderMainCnt } from "../../assets/styles/Shared";
 import Header from "../../layouts/header/Header";
@@ -7,6 +8,7 @@ import Styles from "./ConsumoXGeracaoStyle";
 import Table from "../../components/consumoGeracaoTabela/consumoGeracaoTabela";
 import { data } from "../../components/consumoGeracaoTabela/data";
 import GraficoConsumoGeracao from "../../components/consumoGeracaoChart/Chart";
+
 
 export default function ConsumoXGeracaoPage() {
   return (
